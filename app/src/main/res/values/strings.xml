@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">GitSetup</string>
+    <string name="welcome_message">Hello what world?!</string>
 </resources>
